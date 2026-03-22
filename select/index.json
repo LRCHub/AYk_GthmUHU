@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "base_track": "いらない",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-03-22T08:18:51.109941Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いらない",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/01_いらない_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いらない - IRANAI",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/02_いらない_-_IRANAI_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いらない ツインテール - =LOVE デビュー2周年記念コンサート",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/03_いらない_ツインテール_-_=LOVE_デビュー2周年記念コンサート_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いらない",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_いらない_サカナクション.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "いらない",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/localdb_01_いらない_サカナクション.lrc",
+      "repo_name": "iRb67zfMF7M"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "いらない",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/localdb_02_いらない_サカナクション.lrc",
+      "repo_name": "NPcVJuJ7LpM"
+    }
+  ]
+}
