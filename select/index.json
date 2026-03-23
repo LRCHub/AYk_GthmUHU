@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "いらない",
   "base_artist": "サカナクション",
-  "createdAt": "2026-03-22T08:18:51.109941Z",
+  "createdAt": "2026-03-23T06:07:30.834120Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -43,7 +43,7 @@
       "artist": "サカナクション",
       "has_synced": true,
       "path": "select/localdb_01_いらない_サカナクション.lrc",
-      "repo_name": "iRb67zfMF7M"
+      "repo_name": "AYk_GthmUHU"
     },
     {
       "id": "localdb_2",
@@ -52,6 +52,15 @@
       "artist": "サカナクション",
       "has_synced": true,
       "path": "select/localdb_02_いらない_サカナクション.lrc",
+      "repo_name": "iRb67zfMF7M"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "いらない",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/localdb_03_いらない_サカナクション.lrc",
       "repo_name": "NPcVJuJ7LpM"
     }
   ]
